@@ -54,6 +54,12 @@ The project was implemented using the following technologies:
 - Matplotlib
 - Scipy (for removing the outliers)
 
+# Output
+
+<p align="center">
+<img src="https://github.com/samagra44/Airline-Passenger-Satisfaction-Prediction/assets/77968722/2c274e07-0ad7-4292-bef1-00f7cb3f7300" width=700 height=300 alt="animated"/>
+</p>
+
 Feel free to explore the project and analyze the factors influencing passenger satisfaction!
 
 ---
